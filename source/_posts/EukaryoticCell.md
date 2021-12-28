@@ -4,7 +4,7 @@ coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-28
 tags: Science
-cover: https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/eukaryotic-cell.png
+cover: https://benben-miao.gitee.io/image-cloud/SketchFab/eukaryotic-cell.png
 ---
 
 <!-- <div style="background-color: #eeeeee; width: 120px; padding:5px 20px; border-radius: 3px;">Read More</div> -->
@@ -32,4 +32,4 @@ cover: https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/eukaryotic
 
 ## 
 #### Designer: benben.miao
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/eukaryotic-graph.jpg"/>
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/eukaryotic-graph.jpg"/>

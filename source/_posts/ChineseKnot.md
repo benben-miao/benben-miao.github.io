@@ -4,7 +4,7 @@ coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-28
 tags: Festival
-cover: https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Blender-Vermilion.png
+cover: https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-Blender-Vermilion.png
 ---
 
 <!-- <div style="background-color: #eeeeee; width: 120px; padding:5px 20px; border-radius: 3px;">Read More</div> -->
@@ -41,26 +41,26 @@ cover: https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKno
 
 ## 
 #### 1. 朱砂红
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Blender-Vermilion.png">
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-Blender-Vermilion.png">
 <br/>
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Vermilion-Render.jpg">
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-Vermilion-Render.jpg">
 
 #### 2. 凤仙红
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnotting-Blender-PolishRed.png">
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnotting-Blender-PolishRed.png">
 <br/>
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-PolishRed-Render.jpg">
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-PolishRed-Render.jpg">
 
 #### 3. 桃花粉
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Blender-Pink.png">
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-Blender-Pink.png">
 <br/>
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Pink-Render.jpg">
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-Pink-Render.jpg">
 
 #### 4. 琥珀黄
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Blender-Topaz.png">
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-Blender-Topaz.png">
 <br/>
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Topaz-Render.jpg">
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-Topaz-Render.jpg">
 
 #### 5. 翡翠绿
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Blender-Emerald.png">
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-Blender-Emerald.png">
 <br/>
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Emerald-Render.jpg">
+<img src="https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-Emerald-Render.jpg">

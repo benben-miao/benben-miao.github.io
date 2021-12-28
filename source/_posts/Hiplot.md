@@ -4,7 +4,7 @@ coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-26
 tags: Hiplot
-cover: https://gitee.com/benben-miao/image-cloud/raw/master/BioBlog/hiplot-native.png
+cover: https://benben-miao.gitee.io/image-cloud/BioBlog/hiplot-native.png
 ---
 
 <!-- <div style="background-color: #eeeeee; width: 120px; padding:5px 20px; border-radius: 3px;">Read More</div> -->
@@ -37,7 +37,7 @@ Hiplot (<a href="https://hiplot.com.cn">https://hiplot.com.cn</a>) 生物信息�
 </div>
 
 <br/>
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/BioBlog/hiplot-native.png">
+<img src="https://benben-miao.gitee.io/image-cloud/BioBlog/hiplot-native.png">
 
 ## 
 #### 4. Advanced Applications
@@ -55,4 +55,4 @@ Hiplot (<a href="https://hiplot.com.cn">https://hiplot.com.cn</a>) 生物信息�
 </div>
 
 <br/>
-<img src="https://gitee.com/benben-miao/image-cloud/raw/master/BioBlog/hiplot-gift-network.png">
+<img src="https://benben-miao.gitee.io/image-cloud/BioBlog/hiplot-gift-network.png">

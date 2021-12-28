@@ -4,7 +4,7 @@ coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-28
 tags: Animation
-cover: https://gitee.com/benben-miao/image-cloud/raw/master/Codepen/tech-flower.png
+cover: https://benben-miao.gitee.io/image-cloud/Codepen/tech-flower.png
 ---
 
 <!-- <div style="background-color: #eeeeee; width: 120px; padding:5px 20px; border-radius: 3px;">Read More</div> -->
