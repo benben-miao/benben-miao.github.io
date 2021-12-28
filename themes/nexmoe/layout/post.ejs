@@ -1,0 +1,81 @@
+<div class="nexmoe-post">
+  <% if (page.cover){ %>
+      <div class="nexmoe-post-cover" style="padding-bottom: <%- page.coverHeight/page.coverWidth*100 %>%;"> 
+          <img data-src="<%- page.cover %>" data-sizes="auto" alt="<%= page.title %>" class="lazyload">
+          <h1><%= page.title %></h1>
+      </div>
+  <%}  else{ %>
+      <div class="nexmoe-post-cover" style="padding-bottom: <%- theme.background.height/theme.background.width*100 %>%;"> 
+          <img data-src="<%- theme.background.path %>" data-sizes="auto" alt="<%= page.title %>" class="lazyload">
+          <h1><%= page.title %></h1>
+      </div>
+  <% } %>
+  
+  <%- partial('_partial/_post/meta') %>
+
+  <div class="nexmoe-post-right">
+    <% if (page.toc || theme.function.globalToc){ %>
+      <div class="nexmoe-fixed">
+        <div class="nexmoe-valign">
+            <div class="nexmoe-toc">
+                <%- toc(page.content, {list_number: true}) %>
+            </div>
+        </div>
+      </div>
+    <%} %>
+  </div>
+
+  <article>
+    <%- image_auto_lazyload(page.content) %>
+  </article>
+
+  <%- partial('_partial/_post/tag') %>
+
+  <div class="nexmoe-post-footer">
+    <% if (!page.reprint){ %>
+      <%- partial('_partial/copyright') %>
+    <% } %>
+    <%- partial('_partial/comment') %>
+  </div>
+</div>
+
+<style>
+img {
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px #cccccc !important;
+  transition-duration: 300ms;
+}
+img:hover {
+  box-shadow: 0px 0px 30px #cccccc !important;
+  transition-duration: 300ms;
+}
+
+.card {
+  box-shadow: 0px 0px 10px #cccccc !important; 
+  padding:20px; 
+  line-height:2em; 
+  border-radius:10px;
+  transition-duration: 300ms;
+}
+
+.card:hover {
+  box-shadow: 0px 0px 30px #cccccc !important; 
+  padding:20px; 
+  line-height:2em; 
+  border-radius:10px;
+  transition-duration: 300ms;
+}
+
+.frame {
+  box-shadow: 0px 0px 10px #cccccc !important; 
+  padding:0px; 
+  border-radius:10px;
+  transition-duration: 300ms;
+}
+
+.frame:hover {
+  box-shadow: 0px 0px 30px #cccccc !important;
+  transition-duration: 300ms;
+}
+</style>
