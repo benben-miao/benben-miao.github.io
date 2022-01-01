@@ -45,11 +45,40 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
-  auto_detect: false
+  enable: false
+  auto_detect: true
   line_number: true
   tab_replace: ''
   wrap: true
+prismjs:
+  enable: false
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+
+marked:
+  gfm: true
+  pedantic: false
+  breaks: true
+  smartLists: true
+  smartypants: true
+  quotes: '“”‘’'
+  modifyAnchors: 0
+  anchorAlias: false
+  autolink: true
+  mangle: true
+  sanitizeUrl: false
+  dompurify: false
+  headerIds: true
+  lazyload: false
+  prependRoot: true
+  postAsset: false
+  external_link:
+    enable: false
+    exclude: []
+    nofollow: false
+  disableNunjucks: false
+  descriptionLists: true
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
