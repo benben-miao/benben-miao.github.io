@@ -4,7 +4,7 @@
 
 <head>
   
-  <title>Colors Cloud - benben-miao</title>
+  <title>Taxonomic Stat - benben-miao</title>
   <meta charset="UTF-8">
   <meta name="description" content="Research for bioinformatics.">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
@@ -13,21 +13,20 @@
 
   <link rel="shortcut icon" href="https://benben-miao.gitee.io/image-cloud/BioBlog/avatar.jpg" type="image/jpg" />
   <meta property="og:type" content="article">
-<meta property="og:title" content="Colors Cloud">
-<meta property="og:url" content="https://benben-miao.github.io/2021/12/26/ColorsCloud/index.html">
+<meta property="og:title" content="Taxonomic Stat">
+<meta property="og:url" content="https://benben-miao.github.io/2022/01/01/TaxonomicStat/index.html">
 <meta property="og:site_name" content="benben-miao">
 <meta property="og:locale" content="en_US">
-<meta property="og:image" content="https://z3.ax1x.com/2021/07/31/WvT2FJ.png">
-<meta property="og:image" content="https://z3.ax1x.com/2021/07/31/Wx9jL4.png">
-<meta property="article:published_time" content="2021-12-25T16:00:00.000Z">
-<meta property="article:modified_time" content="2021-12-28T03:53:01.493Z">
+<meta property="og:image" content="https://benben-miao.gitee.io/image-cloud/GitHub/taxonomic-stat.png">
+<meta property="article:published_time" content="2021-12-31T16:00:00.000Z">
+<meta property="article:modified_time" content="2022-01-01T07:29:36.194Z">
 <meta property="article:author" content="benben-miao">
-<meta property="article:tag" content="Hiplot">
+<meta property="article:tag" content="Code">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://z3.ax1x.com/2021/07/31/WvT2FJ.png">
+<meta name="twitter:image" content="https://benben-miao.gitee.io/image-cloud/GitHub/taxonomic-stat.png">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/gh/nexmoe/nexmoe.github.io@latest/css/style.css,npm/highlight.js@9.15.8/styles/atom-one-dark.css,gh/nexmoe/nexmoe.github.io@latest/lib/mdui_043tiny/css/mdui.css,gh/nexmoe/nexmoe.github.io@latest/lib/iconfont/iconfont.css" crossorigin>
   
-  <!--<link rel="stylesheet" href="/css/style.css?v=1641022849818">-->
+  <!--<link rel="stylesheet" href="/css/style.css?v=1641022849731">-->
 
    
     <style>
@@ -165,14 +164,14 @@
         <div class="nexmoe-post">
   
       <div class="nexmoe-post-cover" style="padding-bottom: 56.25%;"> 
-          <img data-src="https://z3.ax1x.com/2021/07/31/Wx9jL4.png" data-sizes="auto" alt="Colors Cloud" class="lazyload">
-          <h1>Colors Cloud</h1>
+          <img data-src="https://benben-miao.gitee.io/image-cloud/GitHub/taxonomic-stat.png" data-sizes="auto" alt="Taxonomic Stat" class="lazyload">
+          <h1>Taxonomic Stat</h1>
       </div>
   
   
   <div class="nexmoe-post-meta nexmoe-rainbow" style="margin:10px 0!important;">
-    <a><i class="nexmoefont icon-calendar-fill"></i>2021年12月26日</a>
-    <a><i class="nexmoefont icon-areachart"></i>51 字</a>
+    <a><i class="nexmoefont icon-calendar-fill"></i>2022年01月01日</a>
+    <a><i class="nexmoefont icon-areachart"></i>157 字</a>
     <a><i class="nexmoefont icon-time-circle-fill"></i>大概 1 分钟</a>
 </div>
 
@@ -181,7 +180,7 @@
       <div class="nexmoe-fixed">
         <div class="nexmoe-valign">
             <div class="nexmoe-toc">
-                <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#"><span class="toc-number">1.</span> <span class="toc-text"></span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Colors-Cloud-Online-for-designers"><span class="toc-number">1.0.1.</span> <span class="toc-text">Colors Cloud Online for designers</span></a></li></ol></li></ol></li></ol>
+                <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#"><span class="toc-number">1.</span> <span class="toc-text"></span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Source-Code-Repository"><span class="toc-number">1.1.</span> <span class="toc-text">Source Code Repository</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#-1"><span class="toc-number">2.</span> <span class="toc-text"></span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#1-Run-with-conda-or-python-environment"><span class="toc-number">2.1.</span> <span class="toc-text">1.Run with conda or python environment</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#1-1-Create-a-conda-environment"><span class="toc-number">2.1.1.</span> <span class="toc-text">1.1 Create a conda environment</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#1-2-Runing-the-taxonomic-stat-py-python-script"><span class="toc-number">2.1.2.</span> <span class="toc-text">1.2 Runing the taxonomic-stat.py python script</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#-2"><span class="toc-number">3.</span> <span class="toc-text"></span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#2-For-users-without-conda-or-python-environment"><span class="toc-number">3.1.</span> <span class="toc-text">2. For users without conda or python environment</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#2-1-Compile-a-execution-program"><span class="toc-number">3.1.1.</span> <span class="toc-text">2.1 Compile a execution program</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#2-2-Run-the-executable-file"><span class="toc-number">3.1.2.</span> <span class="toc-text">2.2 Run the executable file</span></a></li></ol></li></ol></li></ol>
             </div>
         </div>
       </div>
@@ -192,26 +191,41 @@
     <!-- <div style="background-color: #eeeeee; width: 120px; padding:5px 20px; border-radius: 3px;">Read More</div> -->
 <a id="more"></a>
 
-<h2 id=""><a href="#" class="headerlink" title=""></a></h2><h4 id="Colors-Cloud-Online-for-designers"><a href="#Colors-Cloud-Online-for-designers" class="headerlink" title="Colors Cloud Online for designers"></a>Colors Cloud Online for designers</h4><div style="background-color:#eeeeee; border-radius:3px; padding:10px;">
-  <a href="https://colors-cloud.onrender.com" target="_blank" rel="noopener" style="text-shadow: 1px 1px 3px #888;">https://colors-cloud.onrender.com</a>
+<h2 id=""><a href="#" class="headerlink" title=""></a></h2><h3 id="Source-Code-Repository"><a href="#Source-Code-Repository" class="headerlink" title="Source Code Repository"></a>Source Code Repository</h3><div class="card">
+  <a href="https://github.com/benben-miao/taxonomic-stat" target="_blank" rel="noopener" style="text-shadow: 1px 1px 3px #888;">https://github.com/benben-miao/taxonomic-stat</a>
 </div>
 
-<br/>
-<div class="card">
-Colors Cloud (<a href="https://colors-cloud.onrender.com" target="_blank" rel="noopener">https://colors-cloud.onrender.com</a>) 为UI或绘画设计师开发的在线固态颜色和渐变颜色选择平台 (Online colors picker for UI developer and designer)。
-</div>
+<p><img src="https://benben-miao.gitee.io/image-cloud/GitHub/taxonomic-stat.png"></img></p>
+<h2 id="-1"><a href="#-1" class="headerlink" title=""></a></h2><h3 id="1-Run-with-conda-or-python-environment"><a href="#1-Run-with-conda-or-python-environment" class="headerlink" title="1.Run with conda or python environment"></a>1.Run with conda or python environment</h3><h4 id="1-1-Create-a-conda-environment"><a href="#1-1-Create-a-conda-environment" class="headerlink" title="1.1 Create a conda environment"></a>1.1 Create a conda environment</h4><pre><code class="bash"># Install python &amp; pip for environment
+conda create -n taxonomic-stat python=3.9
+conda activate taxonomic-stat
 
-<br/>
-<img src="https://z3.ax1x.com/2021/07/31/WvT2FJ.png">
+# Install modules with pip for reducing execute file
+pip install pandas
+pip install numpy
+pip install openpyxl
+pip install xlrd</code></pre>
+<h4 id="1-2-Runing-the-taxonomic-stat-py-python-script"><a href="#1-2-Runing-the-taxonomic-stat-py-python-script" class="headerlink" title="1.2 Runing the taxonomic-stat.py python script"></a>1.2 Runing the taxonomic-stat.py python script</h4><pre><code class="bash"># The input file of `example.xlsx` is neccecary
+python taxonomic-stat.py example.xlsx</code></pre>
+<h2 id="-2"><a href="#-2" class="headerlink" title=""></a></h2><h3 id="2-For-users-without-conda-or-python-environment"><a href="#2-For-users-without-conda-or-python-environment" class="headerlink" title="2. For users without conda or python environment"></a>2. For users without conda or python environment</h3><h4 id="2-1-Compile-a-execution-program"><a href="#2-1-Compile-a-execution-program" class="headerlink" title="2.1 Compile a execution program"></a>2.1 Compile a execution program</h4><pre><code class="bash"># Don&#39;t forget to activate the environment
+conda activate taxonomic-stat
 
-<br/>
-<img src="https://z3.ax1x.com/2021/07/31/Wx9jL4.png">
+# Install pyinstaller module
+pip install pyinstaller
+
+# Compile the python script
+pyinstaller -F taxonomic-stat.py</code></pre>
+<h4 id="2-2-Run-the-executable-file"><a href="#2-2-Run-the-executable-file" class="headerlink" title="2.2 Run the executable file"></a>2.2 Run the executable file</h4><pre><code class="bash"># Execute the exe file after compiling by yourself or download from the release
+./taxonomic-stat.exe example.xlsx
+
+# The result file should be `example_result.xlsx` or `_result.xlsx`</code></pre>
+
   </article>
 
   <div class="nexmoe-post-meta nexmoe-rainbow">
     
     
-        <a class="nexmoefont icon-tag-fill -link" href="/tags/Hiplot/" rel="tag">Hiplot</a>
+        <a class="nexmoefont icon-tag-fill -link" href="/tags/Code/" rel="tag">Code</a>
     
 </div>
 
@@ -220,7 +234,7 @@ Colors Cloud (<a href="https://colors-cloud.onrender.com" target="_blank" rel="n
       
   <div class="nexmoe-post-copyright">
     <strong>Author：</strong>benben-miao<br>
-    <strong>Link：</strong><a href="https://benben-miao.github.io/2021/12/26/ColorsCloud/" title="https:&#x2F;&#x2F;benben-miao.github.io&#x2F;2021&#x2F;12&#x2F;26&#x2F;ColorsCloud&#x2F;" target="_blank" rel="noopener">https:&#x2F;&#x2F;benben-miao.github.io&#x2F;2021&#x2F;12&#x2F;26&#x2F;ColorsCloud&#x2F;</a><br>
+    <strong>Link：</strong><a href="https://benben-miao.github.io/2022/01/01/TaxonomicStat/" title="https:&#x2F;&#x2F;benben-miao.github.io&#x2F;2022&#x2F;01&#x2F;01&#x2F;TaxonomicStat&#x2F;" target="_blank" rel="noopener">https:&#x2F;&#x2F;benben-miao.github.io&#x2F;2022&#x2F;01&#x2F;01&#x2F;TaxonomicStat&#x2F;</a><br>
     
       <strong>Copyright：</strong>benben-miao <a href="https://github.com/benben-miao" target="_blank">https://github.com/benben-miao</a>
     
@@ -244,8 +258,8 @@ Colors Cloud (<a href="https://colors-cloud.onrender.com" target="_blank" rel="n
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
-        this.page.url = 'https://benben-miao.github.io/2021/12/26/ColorsCloud/'; // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = 'https://benben-miao.github.io/2021/12/26/ColorsCloud/'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        this.page.url = 'https://benben-miao.github.io/2022/01/01/TaxonomicStat/'; // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = 'https://benben-miao.github.io/2022/01/01/TaxonomicStat/'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
 </script>
 <script id="disqus-thread-script">
@@ -306,7 +320,7 @@ img:hover {
   </div>
   <script src="https://cdn.jsdelivr.net/combine/npm/lazysizes@5.1.0/lazysizes.min.js,gh/highlightjs/cdn-release@9.15.8/build/highlight.min.js,npm/mdui@0.4.3/dist/js/mdui.min.js,gh/nexmoe/nexmoe.github.io@latest/js/app.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
-<!--<script src="/js/app.js?v=1641022849819"></script>-->
+<!--<script src="/js/app.js?v=1641022849733"></script>-->
 
 
     <script src="https://cdn.jsdelivr.net/gh/xtaodada/xtaodada.github.io@0.0.2/copy.js"></script>
