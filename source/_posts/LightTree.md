@@ -1,10 +1,10 @@
 ---
-title: Elegant Work
+title: Light Tree
 coverWidth: 1920
 coverHeight: 1080
 date: 2022-01-07
 tags: [Code, Design]
-cover: https://benben-miao.gitee.io/image-cloud/BioBlog/elegant-work.png
+cover: https://benben-miao.gitee.io/image-cloud/BioBlog/light-tree.png
 
 ---
 
@@ -16,12 +16,12 @@ cover: https://benben-miao.gitee.io/image-cloud/BioBlog/elegant-work.png
 </div>
 
 ## 
-#### Elegant Work
+#### Light Tree
 
 <div class="frame">
   <iframe frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" 
   style="width: 100%; height: 520px; border-radius: 10px;" 
-  src="https://benben-miao.gitee.io/beautiful-code/elegant-work/dist/index.html">
+  src="https://benben-miao.gitee.io/beautiful-code/light-tree/dist/index.html">
   </iframe>
 </div>
 
