@@ -3,7 +3,7 @@ title: Colors Cloud
 coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-26
-tags: Hiplot
+tags: Design
 cover: https://z3.ax1x.com/2021/07/31/Wx9jL4.png
 ---
 

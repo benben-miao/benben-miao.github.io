@@ -3,7 +3,7 @@ title: Rhyme
 coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-26
-tags: Rhyme
+tags: [Code, Bioinformatics]
 cover: https://z3.ax1x.com/2021/07/31/Wv4rUs.jpg
 ---
 

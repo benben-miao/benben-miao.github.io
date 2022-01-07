@@ -3,7 +3,7 @@ title: Hiplot
 coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-26
-tags: Hiplot
+tags: [Code, Bioinformatics]
 cover: https://benben-miao.gitee.io/image-cloud/BioBlog/hiplot-native.png
 ---
 

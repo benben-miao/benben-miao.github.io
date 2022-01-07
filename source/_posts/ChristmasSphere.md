@@ -3,7 +3,7 @@ title: Christmas Sphere
 coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-28
-tags: Festival
+tags: [Design, Festival]
 cover: https://benben-miao.gitee.io/image-cloud/SketchFab/christmas-sphere.png
 ---
 

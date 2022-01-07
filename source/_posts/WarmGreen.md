@@ -3,7 +3,7 @@ title: Warm Green
 coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-28
-tags: Plant
+tags: Design
 cover: https://benben-miao.gitee.io/image-cloud/SketchFab/warm-green.png
 ---
 

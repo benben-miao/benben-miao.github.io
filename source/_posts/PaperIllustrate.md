@@ -3,7 +3,7 @@ title: Paper Illustrate
 coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-28
-tags: Illustrate
+tags: Science
 cover: https://benben-miao.gitee.io/image-cloud/GaoYue/Heat-miRNA-TF-mRNA-Network.png
 ---
 

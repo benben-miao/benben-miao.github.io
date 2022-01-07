@@ -3,7 +3,7 @@ title: Tech Flower
 coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-28
-tags: Animation
+tags: [Code, Design]
 cover: https://benben-miao.gitee.io/image-cloud/Codepen/tech-flower.png
 ---
 

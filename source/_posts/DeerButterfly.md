@@ -3,7 +3,7 @@ title: Deer Butterfly
 coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-27
-tags: Animal
+tags: Design
 cover: https://benben-miao.gitee.io/image-cloud/SketchFab/deer-butterfly.png
 ---
 

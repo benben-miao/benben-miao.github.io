@@ -3,7 +3,7 @@ title: 中国结
 coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-27
-tags: Festival
+tags: [Design, Festival]
 cover: https://benben-miao.gitee.io/image-cloud/SketchFab/ChineseKnot-Blender-Vermilion.png
 ---
 

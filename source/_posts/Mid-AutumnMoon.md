@@ -3,7 +3,7 @@ title: Mid-Autumn Mood
 coverWidth: 1920
 coverHeight: 1080
 date: 2021-12-27
-tags: Festival
+tags: [Design, Festival]
 cover: https://benben-miao.gitee.io/image-cloud/SketchFab/midautumn-moon.jpg
 ---
 

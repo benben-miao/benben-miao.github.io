@@ -3,7 +3,7 @@ title: Taxonomic Stat
 coverWidth: 1920
 coverHeight: 1080
 date: 2022-01-01
-tags: Code
+tags: [Code, Bioinformatics]
 cover: https://benben-miao.gitee.io/image-cloud/GitHub/taxonomic-stat.png
 ---
 
