@@ -11,7 +11,8 @@ cover: https://benben-miao.gitee.io/image-cloud/BioBlog/omics-code.png
 <!-- more -->
 
 <div class="card">
-  <a href="https://benben-miao.github.io" style="text-shadow: 1px 1px 3px #888;">https://benben-miao.github.io</a>
+  <p style="color: green;font-family: YouYuan;">微信内部请访问 (Please visit WeChat internally)：</p>
+  <a href="https://13986598.fkwcd.cn/index.jsp?id=daqp6Z36&slv=1&sid=n77a&v=oosnVwvrINA4B6Dm3SexTBi1-Ddo" style="text-shadow: 1px 1px 3px #888;">https://13986598.fkwcd.cn/index.jsp?id=daqp6Z36&slv=1&sid=n77a&v=oosnVwvrINA4B6Dm3SexTBi1-Ddo</a>
 </div>
 
 ## 
