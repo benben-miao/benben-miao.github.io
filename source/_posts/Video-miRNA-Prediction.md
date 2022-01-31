@@ -13,7 +13,7 @@ cover: https://benben-miao.gitee.io/image-cloud/BioBlog/video-miRNA-prediction.p
 ## 
 #### Course
 <div class="card">
-  <b>Hiplot Bilibili:</b> <br> <a href="https://www.bilibili.com/video/BV1pf4y1q7zw?from=search&seid=3403592123452109167" style="text-shadow: 1px 1px 3px #888;">https://www.bilibili.com/video/BV1pf4y1q7zw?from=search&seid=3403592123452109167</a>
+  <b>1080P 视频质量：Hiplot Bilibili:</b> <br> <a href="https://www.bilibili.com/video/BV1pf4y1q7zw?from=search&seid=3403592123452109167" style="text-shadow: 1px 1px 3px #888;">https://www.bilibili.com/video/BV1pf4y1q7zw?from=search&seid=3403592123452109167</a>
 </div>
 
 ## 
