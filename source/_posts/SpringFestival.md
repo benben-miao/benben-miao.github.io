@@ -4,7 +4,7 @@ coverWidth: 1920
 coverHeight: 1080
 date: 2022-01-31
 tags: [Design, Festival]
-cover: https://benben-miao.gitee.io/image-cloud/BioBlog/spring-festival.png
+cover: https://benben-miao.gitee.io/image-cloud/BioBlog/tiger1.jpg
 ---
 
 <!-- <div style="background-color: #eeeeee; width: 120px; padding:5px 20px; border-radius: 3px;">Read More</div> -->
