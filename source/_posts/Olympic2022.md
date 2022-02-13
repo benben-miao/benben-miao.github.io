@@ -1,10 +1,10 @@
 ---
-title: Cute Cat
+title: BingDunDun XueRongRong
 coverWidth: 1920
 coverHeight: 1080
 date: 2022-02-14
-tags: [Design, Code]
-cover: https://benben-miao.gitee.io/image-cloud/Codepen/cute-cat.png
+tags: Cartoon
+cover: https://benben-miao.gitee.io/image-cloud/BioBlog/olympic-2022.png
 ---
 
 <!-- <div style="background-color: #eeeeee; width: 120px; padding:5px 20px; border-radius: 3px;">Read More</div> -->
@@ -15,10 +15,10 @@ cover: https://benben-miao.gitee.io/image-cloud/Codepen/cute-cat.png
 </div>
 
 ## 
-#### Cute Cat
+#### BingDunDun XueRongRong
 <div class="frame">
   <iframe frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" 
   style="width: 100%; height: 520px; border-radius: 10px;" 
-  src="https://benben-miao.gitee.io/beautiful-code/lina-cat/index.html">
+  src="https://benben-miao.github.io/Olympic-Mascots-2022/">
   </iframe>
 </div>
