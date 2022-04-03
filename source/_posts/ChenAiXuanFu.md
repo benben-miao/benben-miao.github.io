@@ -14,7 +14,7 @@ cover: https://benben-miao.gitee.io/image-cloud/Spline/cheng-ai-xuan-fu.png
 #### Home
 <div class="card">
   <a href="https://benben-miao.github.io" style="text-shadow: 1px 1px 3px #888;">https://benben-miao.github.io</a>
-  <p style="text-shadow: 1px 1px 3px #888; color: #ff0088;"></p>
+  <p style="text-shadow: 1px 1px 3px #888; color: #ff0088;">Tip: 这个漂亮的故事微页无法在微信里展示，需要点击右上角"..."通过手机浏览器打开哦，或者可以将网站地址复制到浏览器访问即可！</p>
 </div>
 
 ## 
