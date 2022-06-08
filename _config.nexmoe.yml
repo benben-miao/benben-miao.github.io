@@ -1,0 +1,121 @@
+avatar: https://benben-miao.gitee.io/image-cloud/BioBlog/avatar.jpg
+background: # 既是博客的背景，又是文章默认头图
+    path: 
+    width: 1280
+    height: 1080
+favicon:
+  href: https://benben-miao.gitee.io/image-cloud/BioBlog/avatar.jpg # 网站图标
+  type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
+
+function: # 功能开关，可选值（true,false）
+  globalToc: true # 开启该功能会自动开启文章 TOC（文章目录） 功能
+  wordCount: true # 是否开启文章字数统计 (true, false)
+
+imageCDN: # 图片 CDN 功能
+  enable: false # 开启该功能  
+  origin: /../../images/ # 图片原始目录
+  to: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/ # 图片 CDN 域名
+
+# 自定义样式，启用后可在站点的source文件夹下新建custom.css自定义站点样式
+customStyles:
+  - custom.css
+  
+# 附加图标库 使用说明：https://docs.nexmoe.com/config/icon
+iconlib: # //at.alicdn.com/t/font_1038733_0xvrvpg9c0r.css
+
+menu:
+  Home: 
+    - /
+    - icon-home
+  BioBlog: 
+    - /bioblog
+    - icon-coffee
+  About:
+    - /about.html
+    - icon-info-circle
+
+widgets:
+    - name: search
+      enable: true
+      options: 
+        search: 
+            type: engine # 可选engine（用搜索引擎搜索）、swiftype、或local（本地搜索）
+            url: https://cn.bing.com/search?q=site:nexmoe.com # 搜索引擎地址，在type为swiftype时无效 e.g:https://www.google.com/search?q={你的博客链接}
+            id: <swiftype-id> # swiftype的id，见启用教程。在type为engine时无效
+    - name: social
+      enable: true
+      options: 
+        social:
+            GitHub:
+              - https://github.com/benben-miao
+              - icon-github
+              - rgb(25, 23, 23)
+              - rgba(25, 23, 23, .15)
+            Gitee:
+              - https://gitee.com/benben-miao
+              - icon-container
+              - rgb(25, 23, 23)
+              - rgba(25, 23, 23, .15)
+            Hiplot-Cloud:
+              - https://hiplot.com.cn
+              - icon-dribbble
+              - rgb(25, 23, 23)
+              - rgba(25, 23, 23, .15)
+            Bio-Nav:
+              - https://bio-nav.hiplot.com.cn
+              - icon-battlenet
+              - rgb(25, 23, 23)
+              - rgba(25, 23, 23, .15)
+            Colors-Cloud:
+              - https://colors-cloud.onrender.com
+              - icon-calendar-fill
+              - rgb(25, 23, 23)
+              - rgba(25, 23, 23, .15)
+            YuQue:
+              - https://www.yuque.com/benben.miao
+              - icon-home
+              - rgb(25, 23, 23)
+              - rgba(25, 23, 23, .15)
+            Dev-Wall:
+              - https://hiplot.com.cn/developer-wall
+              - icon-coffee
+              - rgb(25, 23, 23)
+              - rgba(25, 23, 23, .15)
+            OmicsSphere:
+              - https://omicspheremed.netlify.app/
+              - icon-areachart
+              - rgb(25, 23, 23)
+              - rgba(25, 23, 23, .15)
+    - name: category
+      enable: true
+    - name: tagcloud
+      enable: true
+      options: 
+        maxTagcloud: 30  # 标签云组件显示的标签数量，0 表示不限制
+    - name: hitokoto # 一言 widget
+      enable: false
+      options: 
+        widgetHitokoto: # 一言组件
+            loading_placeholder: '🚀 获取中...' # 正在一言时的占位符
+            loading_error_placeholder: '🐞 获取失败...' # 加载一言失败时的占位符
+            category: # 一言句子类型（可选），不配置的话随机获取，详见 https://developer.hitokoto.cn/sentence/#%E5%8F%A5%E5%AD%90%E7%B1%BB%E5%9E%8B-%E5%8F%82%E6%95%B0
+    - name: archive #settings: widgetAchive
+      enable: true
+      options:
+        widgetAchive: #文章归档组件
+            archive_type: 'month' #按月展示还是按年展示
+            show_count: true  #是否展示数量
+    - name: recent_posts
+      enable: true
+    - name: link #settings: widgetLink
+      enable: true
+      options: 
+        widgetLink: #链接组件
+            - title: Hiplot
+              img: https://benben-miao.gitee.io/image-cloud/BioBlog/hiplot-native.png
+              link : https://hiplot.com.cn
+            - title: BioSciTools
+              img: https://benben-miao.gitee.io/image-cloud/BioSciTools/BioSciTools-Home.png
+              link : https://bioscitools.github.io
+
+copyTip: '<strong>Copyright：</strong>benben-miao <a href="https://github.com/benben-miao" target="_blank">https://github.com/benben-miao</a>'
