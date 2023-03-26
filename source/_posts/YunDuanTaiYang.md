@@ -4,7 +4,7 @@ coverWidth: 1920
 coverHeight: 1080
 date: 2022-03-31
 tags: Design
-cover: https://benben-miao.gitee.io/image-cloud/Spline/yun-duan-tai-yang.png
+cover: https://benben-miao.gitee.io/image-cloud/Spline/cheng-ai-xuan-fu.png
 ---
 
 <!-- <div style="background-color: #eeeeee; width: 120px; padding:5px 20px; border-radius: 3px;">Read More</div> -->

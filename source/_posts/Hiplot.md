@@ -27,9 +27,6 @@ Hiplot (<a href="https://hiplot.com.cn">https://hiplot.com.cn</a>) 生物信息�
   <a href="https://hiplot.com.cn/developer-wall" style="text-shadow: 1px 1px 3px #888;">https://hiplot.com.cn/developer-wall</a>
 </div>
 
-<br/>
-<img src="https://z3.ax1x.com/2021/07/31/WvT4Qx.png">
-
 ## 
 #### 3. Native Applications
 <div style="background-color:#eeeeee; border-radius:3px; padding:10px;">
@@ -44,9 +41,6 @@ Hiplot (<a href="https://hiplot.com.cn">https://hiplot.com.cn</a>) 生物信息�
 <div style="background-color:#eeeeee; border-radius:3px; padding:10px;">
   <a href="https://hiplot.com.cn/advance" style="text-shadow: 1px 1px 3px #888;">https://hiplot.com.cn/advance</a>
 </div>
-
-<br/>
-<img src="https://z3.ax1x.com/2021/07/31/WvThS1.png">
 
 ## 
 #### 5. Hiplot Gift
